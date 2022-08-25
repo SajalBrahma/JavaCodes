@@ -1,4 +1,4 @@
-// To print the reverse of teh entered number
+// To print the reverse of the entered number
 import java.util.Scanner;
 public class Program38 
 {
