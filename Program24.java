@@ -1,4 +1,4 @@
-// To perform if the entered number is a palindrome
+// To perform if the entered number is a Palindrome
 import java.util.Scanner;
 public class Program24 
 {
