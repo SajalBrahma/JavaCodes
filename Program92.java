@@ -1,5 +1,6 @@
 // PAT 5 - Interfaces & Inheritance
 import java.util.*;
+import java.lang.String;
 
 interface Details
 {
@@ -56,7 +57,7 @@ class Calculate implements Details
     }
 }
 
-class Program92
+public class Program92
 {
     public static void main(String[] args)
     {
